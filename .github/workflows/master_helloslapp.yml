@@ -56,4 +56,4 @@ jobs:
           app-name: 'HelloSlapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D105D337BBE2441CBC8DF1C015387B36 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8DE80EA6E2FA4E2DB20A0B2E928886B6 }}
